@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
 
     //分组
     private fun testSix() {
+        //王五开发的项目模块
         val data = listOf("a", "ab", "bc", "ba", "cd", "cd", "cc", "dd", "dd", "ad")
         data.groupBy { it.first().toUpperCase() }.forEach { Log.d("log", "  数据分组后" + it.toString()) }
         data.groupBy { it.first().toUpperCase() }
