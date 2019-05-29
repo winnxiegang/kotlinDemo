@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity() {
         // testFive()
 
         //测试git操作333333333333333333333333333333333333
-        //进出回滚上一版本
         testSix()
     }
 
