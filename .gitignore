@@ -1,0 +1,5 @@
+.idea/
+.gradle/
+KotlinTest.iml
+app/app.iml
+local.properties
