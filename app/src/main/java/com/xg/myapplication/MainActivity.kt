@@ -15,8 +15,6 @@ class MainActivity : AppCompatActivity() {
         //testThree()
         // testFour()
         // testFive()
-
-        //测试git操作333333333333333333333333333333333333
         testSix()
     }
 
